@@ -1,0 +1,6 @@
+{
+  "name": "Django PDF Compressor Architecture & Workbench",
+  "description": "Solución integral de compresión de PDF de alta tolerancia a fallos con Ghostscript, PyMuPDF fallback, mitigación de fugas de memoria y consentimiento estricto para Django.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
